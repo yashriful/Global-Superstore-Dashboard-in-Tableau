@@ -3,6 +3,7 @@
 This project presents an interactive Tableau dashboard analyzing sales, profit, shipping costs, and order priorities for the Global Superstore dataset. The visualizations provide insights into regional sales trends, profit margins, shipping expenses, and order priorities.
 
 📷 Dashboard Preview
+https://public.tableau.com/app/profile/yashriful.raka/viz/globalsuperstoredashboardyir/Dashboard1
 
 🔍 Key Insights
 Sales by Region: Western region leads in total sales, followed by Central and Oceania.
